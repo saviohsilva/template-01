@@ -5,7 +5,7 @@
         "core": "*",
         "radio": "*",
         "microphone": "*",
-        "pxt_turtle": "github:SauloVictorS/Turtle#f4eaec95cb3f2169a77470853d136932a3bb8d68"
+        "pxt_turtle": "github:SauloVictorS/turtle#v1.0.0"
     },
     "files": [
         "main.blocks",
@@ -16,7 +16,7 @@
         "test.ts"
     ],
     "targetVersions": {
-        "target": "9.0.8",
+        "target": "9.0.12",
         "targetId": "microbit"
     },
     "supportedTargets": [
